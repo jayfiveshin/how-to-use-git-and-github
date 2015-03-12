@@ -50,9 +50,7 @@ I have the ability to revert to a working version of a code, I will be confident
 that I can try something out and if something goes wrong, I'll be able to revert
 my progress and try again.
 
-
 Question: Now that you have your workspace set up, what do you want to try using
 Git for?
 
 I would like to use Git for any time when I am doing any kind of programming.
-
